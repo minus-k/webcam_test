@@ -30,6 +30,7 @@ $(document).ready(function() {
 
   function swap_visible() {
     $('#camera').hide();
+    $('#target').hide();
     $('#fun').show();
   }
 });
